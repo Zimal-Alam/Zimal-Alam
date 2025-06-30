@@ -1,4 +1,4 @@
-👋 Hi there! I'm Zimal Alam, a Data Science undergraduate at FAST NUCES with a passion for building AI-powered solutions that bridge the gap between data and real-world impact.
+👋 Hi there! I'm Zimal Alam, a recent Data Science graduate at FAST NUCES with a passion for building AI-powered solutions that bridge the gap between data and real-world impact.
 
 🔍 I specialize in Generative AI, NLP, and machine learning, with hands-on experience in designing end-to-end data pipelines, predictive models, and intelligent applications across domains like healthcare, finance, and voice interfaces.
 
